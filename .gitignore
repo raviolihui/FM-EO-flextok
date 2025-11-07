@@ -10,3 +10,8 @@ wandb/
 *.DS_Store
 *pkl
 *.egg-info
+.conda/
+envr/
+envr
+*.envr
+

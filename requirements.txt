@@ -1,0 +1,8 @@
+rasterio
+numpy 
+xarray 
+imageio 
+lmdb 
+opencv-python
+pyarrow
+fastparquet
