@@ -1,4 +1,4 @@
-# FlexTok: Resampling Images into 1D Token Sequences of Flexible Length
+# FlexTok: Resampling Images into 1D Token Sequences of Flexible Length - Experiment with EO data
 
 [`Website`](https://flextok.epfl.ch) | [`arXiv`](https://arxiv.org/abs/2502.13967) | [`🤗 Demo`](https://huggingface.co/spaces/EPFL-VILAB/FlexTok) | [`BibTeX`](#citation)
 
@@ -6,12 +6,12 @@ Official implementation and pre-trained models for: <br>
 [**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**](https://arxiv.org/abs/2502.13967), ICML 2025 <br>
 *[Roman Bachmann](https://roman-bachmann.github.io/)\*, [Jesse Allardice](https://github.com/JesseAllardice)\*, [David Mizrahi](https://dmizrahi.com/)\*, [Enrico Fini](https://scholar.google.com/citations?user=OQMtSKIAAAAJ), [Oğuzhan Fatih Kar](https://ofkar.github.io/), [Elmira Amirloo](https://elamirloo.github.io/), [Alaaeldin El-Nouby](https://aelnouby.github.io/), [Amir Zamir](https://vilab.epfl.ch/zamir/), [Afshin Dehghan](https://scholar.google.com/citations?user=wcX-UW4AAAAJ)*
 
-
 ![FlexTok main figure](./assets/flextok_pull_darkmode.png#gh-dark-mode-only)
 ![FlexTok main figure](./assets/flextok_pull_lightmode.png#gh-light-mode-only)
 
 
 ## Table of contents
+- [Experiment with EO data](#Experiment with EO data)
 - [Usage](#usage)
     - [Installation](#installation)
     - [Getting started](#getting-started)
@@ -20,6 +20,15 @@ Official implementation and pre-trained models for: <br>
     - [VAEs](#vaes)
 - [License](#license)
 - [Citation](#citation)
+
+
+## Experiment with EO data - Personal work
+
+We believe that FlexTok has potential for good performance with EO data. We plan to first attempt performance with rgb images, and if succesfull adapt phase 0 for 12 band images. 
+
+Here we have inference with EO images, the performance is already impressive. 
+
+<img width="2983" height="893" alt="image" src="https://github.com/user-attachments/assets/62ee41b6-8730-4bf2-98ca-df2e0f894e96" />
 
 
 ## Usage
