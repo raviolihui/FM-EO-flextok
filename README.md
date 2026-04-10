@@ -6,6 +6,9 @@ Official implementation and pre-trained models for: <br>
 [**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**](https://arxiv.org/abs/2502.13967), ICML 2025 <br>
 *[Roman Bachmann](https://roman-bachmann.github.io/)\*, [Jesse Allardice](https://github.com/JesseAllardice)\*, [David Mizrahi](https://dmizrahi.com/)\*, [Enrico Fini](https://scholar.google.com/citations?user=OQMtSKIAAAAJ), [Oğuzhan Fatih Kar](https://ofkar.github.io/), [Elmira Amirloo](https://elamirloo.github.io/), [Alaaeldin El-Nouby](https://aelnouby.github.io/), [Amir Zamir](https://vilab.epfl.ch/zamir/), [Afshin Dehghan](https://scholar.google.com/citations?user=wcX-UW4AAAAJ)*
 
+<img width="2983" height="893" alt="image" src="https://github.com/user-attachments/assets/62ee41b6-8730-4bf2-98ca-df2e0f894e96" />
+
+
 ![FlexTok main figure](./assets/flextok_pull_darkmode.png#gh-dark-mode-only)
 ![FlexTok main figure](./assets/flextok_pull_lightmode.png#gh-light-mode-only)
 
